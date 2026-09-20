@@ -1,6 +1,6 @@
 # PC Info
 
-VB6 working copy of `PC Info` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: PC Info. Output: `PCInfo.exe`.
+VB6 remote PC inspector (`PCInfo.exe` / `Pcinfo.vbp`): enter a computer name, WMI-ping it (`Win32_PingStatus`), then pull OS caption/version (and related WMI inventory hooks) into a list. Open `Pcinfo.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
